@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a computer science fresh graduate who's currently interning with [Deriv](https://deriv.com/)
+I'm a computer science fresh graduate who's currently undergoing training with [Deriv](https://deriv.com/) under the [Besquare Program](https://deriv.com/besquare/)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CRJoshuaa&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
