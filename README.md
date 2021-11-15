@@ -1,7 +1,6 @@
 ### Hi there 👋
-![](https://visitor-badge.glitch.me/badge?page_id=CRJoshuaa.CRJoshuaa)
 
-## Currently working: BESQUARE @ Deriv
+I'm a computer science fresh graduate who's currently interning with [Deriv](https://deriv.com/)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CRJoshuaa&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
