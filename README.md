@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://visitor-badge.glitch.me/badge?page_id=CRJoshuaa.CRJoshuaa)
 
 ## Currently working: BESQUARE @ Deriv
 
