@@ -2,8 +2,8 @@
 
 I'm a computer science fresh graduate who's currently undergoing training with [Deriv](https://deriv.com/) under the [Besquare Program](https://deriv.com/besquare/)
 
-<img align="left|center" src="https://github-readme-stats.vercel.app/api?username=CRJoshuaa&theme=synthwave&show_icons=true"/>
-<img align="left|center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRJoshuaa&layout=compact&theme=synthwave&hide=jupyter%20notebook "/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=CRJoshuaa&theme=synthwave&show_icons=true"/>
+<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRJoshuaa&layout=compact&theme=synthwave&hide=jupyter%20notebook "/>
 <!-- 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CRJoshuaa&layout=compact&theme=synthwave&hide=jupyter%20notebook )](https://github.com/anuraghazra/github-readme-stats) -->
 
